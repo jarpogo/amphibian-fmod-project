@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9aaac305-3349-492b-a43b-3fd6ea72fb9f}">
+		<property name="assetPath">
+			<value>SFX/UI/Stat Book/PageTurn2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.79571428571428571</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f21a3fc-c3d9-4fa2-adf4-b887d0596e26}</destination>
+		</relationship>
+	</object>
+</objects>

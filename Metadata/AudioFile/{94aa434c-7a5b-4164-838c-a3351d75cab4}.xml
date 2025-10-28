@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{94aa434c-7a5b-4164-838c-a3351d75cab4}">
+		<property name="assetPath">
+			<value>SFX/Battle/UseWeapon/Guns/Shotgun_chickchick.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.84999999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f21a3fc-c3d9-4fa2-adf4-b887d0596e26}</destination>
+		</relationship>
+	</object>
+</objects>

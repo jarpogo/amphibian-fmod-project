@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1e3962ff-c256-4afc-8a8b-a94939a50689}">
+		<property name="assetPath">
+			<value>SFX/Battle/Damage/Player_Does_Damage_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.22081632653061226</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2f21a3fc-c3d9-4fa2-adf4-b887d0596e26}</destination>
+		</relationship>
+	</object>
+</objects>
