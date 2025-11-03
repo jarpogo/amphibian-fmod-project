@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{e4b6c057-386a-49b9-8ddd-80545d9489d3}">
+	<object class="AudioFile" id="{6a0a0108-b9e7-42ac-aa69-9678920176d1}">
 		<property name="assetPath">
-			<value>Music/Act_1_Battletheme.wav</value>
+			<value>Music/final-fantasy-vii-victory-fanfare-1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>55.911950113378687</value>
+			<value>10.057142857142857</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{2f21a3fc-c3d9-4fa2-adf4-b887d0596e26}</destination>
