@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{bebe9f7f-a810-43f2-840f-4c93c610301b}">
 		<property name="assetPath">
-			<value>Music/VG16.Penultimate.Encounter.wav</value>
+			<value>Music/Graveyard/VG16.Penultimate.Encounter.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

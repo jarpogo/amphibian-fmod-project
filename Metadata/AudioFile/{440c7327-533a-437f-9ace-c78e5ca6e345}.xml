@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{440c7327-533a-437f-9ace-c78e5ca6e345}">
 		<property name="assetPath">
-			<value>Music/VG19.Frog_Shrine.wav</value>
+			<value>Music/Graveyard/VG19.Frog_Shrine.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

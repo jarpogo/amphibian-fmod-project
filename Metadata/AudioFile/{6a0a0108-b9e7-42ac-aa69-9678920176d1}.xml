@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{6a0a0108-b9e7-42ac-aa69-9678920176d1}">
 		<property name="assetPath">
-			<value>Music/final-fantasy-vii-victory-fanfare-1.mp3</value>
+			<value>Music/Placeholder/final-fantasy-vii-victory-fanfare-1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
