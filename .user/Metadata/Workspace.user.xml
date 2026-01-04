@@ -5,11 +5,7 @@
 			<destination>{1ff48bb1-eaa0-4a3c-b7fe-91032ae1e5da}</destination>
 		</relationship>
 		<relationship name="changelist">
-<<<<<<< HEAD
-			<destination>{0a1a8b95-191d-4635-9064-f33d68b87bed}</destination>
-=======
 			<destination>{6420d4cc-1be4-49a6-9086-0fe32a9ebb4d}</destination>
->>>>>>> ec7efc9 (new music and sfx)
 		</relationship>
 	</object>
 	<object class="ProjectSettings" id="{1ff48bb1-eaa0-4a3c-b7fe-91032ae1e5da}">
@@ -23,9 +19,5 @@
 			<destination>{53c54458-80da-434a-bbef-08ce2b1fc259}</destination>
 		</relationship>
 	</object>
-<<<<<<< HEAD
-	<object class="WorkspaceChangelist" id="{0a1a8b95-191d-4635-9064-f33d68b87bed}" />
-=======
 	<object class="WorkspaceChangelist" id="{6420d4cc-1be4-49a6-9086-0fe32a9ebb4d}" />
->>>>>>> ec7efc9 (new music and sfx)
 </objects>
