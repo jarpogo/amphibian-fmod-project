@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d253f1c2-5258-407d-b60b-f63127e78fbc}">
+		<property name="name">
+			<value>Rib_Interact</value>
+		</property>
+		<relationship name="folder">
+			<destination>{df815718-0446-42e5-b85e-fc84bf6db938}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{03af9c81-e14c-493f-9c14-a6953772d04a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{03af9c81-e14c-493f-9c14-a6953772d04a}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Rib_Singing</value>
+			<value>Rib_Interrupt</value>
+			<value>Rib_Talk</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
