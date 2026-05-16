@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{d2342be6-d9d8-43d7-90eb-ae4d5dd226df}">
+		<property name="name">
+			<value>03_palace escape tunnel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c7bc4767-643a-42d5-a519-54bbda10ec16}</destination>
+		</relationship>
+	</object>
+</objects>

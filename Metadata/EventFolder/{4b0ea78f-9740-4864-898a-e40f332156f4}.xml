@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{4b0ea78f-9740-4864-898a-e40f332156f4}">
+		<property name="name">
+			<value>15_liberating algae</value>
+		</property>
+		<relationship name="folder">
+			<destination>{41edc0e8-e517-4b01-a675-1407a1a05f78}</destination>
+		</relationship>
+	</object>
+</objects>

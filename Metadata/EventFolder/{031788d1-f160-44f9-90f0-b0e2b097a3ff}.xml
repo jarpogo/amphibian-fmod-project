@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{031788d1-f160-44f9-90f0-b0e2b097a3ff}">
+		<property name="name">
+			<value>25_monument isle</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51d9c47a-3e1b-4503-adc2-d6b18fea6216}</destination>
+		</relationship>
+	</object>
+</objects>

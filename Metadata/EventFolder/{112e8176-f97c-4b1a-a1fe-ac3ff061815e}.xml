@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{112e8176-f97c-4b1a-a1fe-ac3ff061815e}">
+		<property name="name">
+			<value>19_graveyard sidequest</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51d9c47a-3e1b-4503-adc2-d6b18fea6216}</destination>
+		</relationship>
+	</object>
+</objects>

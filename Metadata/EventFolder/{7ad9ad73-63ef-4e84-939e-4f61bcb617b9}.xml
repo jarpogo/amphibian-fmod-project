@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{7ad9ad73-63ef-4e84-939e-4f61bcb617b9}">
+		<property name="name">
+			<value>08_snow frog sanctuary</value>
+		</property>
+		<relationship name="folder">
+			<destination>{41edc0e8-e517-4b01-a675-1407a1a05f78}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{43e14e7a-b9ed-4be8-b731-86e10c2d4128}">
+		<property name="name">
+			<value>23_spider nest</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51d9c47a-3e1b-4503-adc2-d6b18fea6216}</destination>
+		</relationship>
+	</object>
+</objects>

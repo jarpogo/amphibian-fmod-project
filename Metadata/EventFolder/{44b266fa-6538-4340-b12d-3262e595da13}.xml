@@ -5,7 +5,7 @@
 			<value>Dialogue</value>
 		</property>
 		<relationship name="folder">
-			<destination>{49290dd5-94fd-42e0-bd59-a29fc131cc63}</destination>
+			<destination>{41aae73a-ff51-4ce3-86d6-d916276bee1b}</destination>
 		</relationship>
 	</object>
 </objects>

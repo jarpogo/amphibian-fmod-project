@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{0ad2b9f6-080a-46a4-838b-a5f50d91ec9e}">
+		<property name="name">
+			<value>Emotional State</value>
+		</property>
+		<relationship name="folder">
+			<destination>{df815718-0446-42e5-b85e-fc84bf6db938}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9b364c7d-6e27-4ada-8094-89ef3dc2216a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9b364c7d-6e27-4ada-8094-89ef3dc2216a}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Angry</value>
+			<value>Questioning</value>
+			<value>Sad</value>
+			<value>Neutral</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

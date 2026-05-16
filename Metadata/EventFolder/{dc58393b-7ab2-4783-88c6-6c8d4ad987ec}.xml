@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{dc58393b-7ab2-4783-88c6-6c8d4ad987ec}">
+		<property name="name">
+			<value>27_dessicated pond</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51d9c47a-3e1b-4503-adc2-d6b18fea6216}</destination>
+		</relationship>
+	</object>
+</objects>
